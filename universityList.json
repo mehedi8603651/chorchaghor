@@ -1,0 +1,33 @@
+{
+  "universities": [
+    "Harvard University",
+    "Stanford University", 
+    "Massachusetts Institute of Technology",
+    "University of Oxford",
+    "University of Cambridge",
+    "University of Tokyo",
+    "Columbia University",
+    "University of Chicago",
+    "Princeton University",
+    "Yale University",
+    "University of California, Berkeley",
+    "University of California, Los Angeles",
+    "University of Pennsylvania",
+    "Cornell University",
+    "Johns Hopkins University",
+    "University of Michigan",
+    "University of Toronto",
+    "University of British Columbia",
+    "ETH Zurich",
+    "National University of Singapore",
+    "University of Melbourne",
+    "Tsinghua University",
+    "Peking University",
+    "University of Sydney",
+    "University of Edinburgh",
+    "McGill University",
+    "University of Hong Kong",
+    "University of Copenhagen",
+    "University of Amsterdam"
+  ]
+}
